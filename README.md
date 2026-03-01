@@ -9,10 +9,11 @@ Sono uno studente di informatica di 18 anni con la passione per la programmazion
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-## 📌 Progetti
-| Progetto | Descrizione | Tecnologia |
+## 📌 Projects
+| Project | Description | Technology |
 |---|---|---|
-| [NutriceEngine](https://github.com/AndreaMoschella3/NutriceEngine) | Calcolo macronutrienti giornalieri basato su BMR e TDEE | Java |
+| [NutriceEngine](https://github.com/AndreaMoschella3/NutriceEngine) | Daily macronutrient calculator based on BMR and TDEE | Java |
+| [GymDB](https://github.com/AndreaMoschella3/GymDB) | Relational database for gym management | MySQL |
 
 ## 📈 Obiettivo
 Sto costruendo il mio portfolio un progetto alla volta. Ogni repository rappresenta un passo concreto verso una carriera nel backend.
