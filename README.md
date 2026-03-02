@@ -1,5 +1,4 @@
 # Ciao, sono Andrea 👋
-
 Sono uno studente di informatica di 18 anni con la passione per la programmazione che mi accompagna da quando ero bambino. Il mio obiettivo è costruire una carriera nel **backend development**.
 
 ## 🛠️ Stack
@@ -14,6 +13,11 @@ Sono uno studente di informatica di 18 anni con la passione per la programmazion
 |---|---|---|
 | [NutriceEngine](https://github.com/AndreaMoschella3/NutriceEngine) | Daily macronutrient calculator based on BMR and TDEE | Java |
 | [GymDB](https://github.com/AndreaMoschella3/GymDB) | Relational database for gym management | MySQL |
+
+## 🎓 School
+| Project | Description | Technology |
+|---|---|---|
+| [ProfessorRegister](https://github.com/AndreaMoschella3/professorRegister) | School project for managing grades, students and classroom activities | Java |
 
 ## 📈 Obiettivo
 Sto costruendo il mio portfolio un progetto alla volta. Ogni repository rappresenta un passo concreto verso una carriera nel backend.
