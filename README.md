@@ -1,4 +1,5 @@
 # Ciao, sono Andrea 👋
+
 Sono uno studente di informatica di 18 anni con la passione per la programmazione che mi accompagna da quando ero bambino. Il mio obiettivo è costruire una carriera nel **backend development**.
 
 ## 🛠️ Stack
@@ -18,6 +19,16 @@ Sono uno studente di informatica di 18 anni con la passione per la programmazion
 | Project | Description | Technology |
 |---|---|---|
 | [ProfessorRegister](https://github.com/AndreaMoschella3/professorRegister) | School project for managing grades, students and classroom activities | Java |
+
+## 📚 Crescita personale
+
+Non mi fermo ai progetti scolastici — studio autonomamente tecnologie e pattern che voglio padroneggiare, un passo alla volta.
+
+| Project | Cosa ho imparato | Technology |
+|---|---|---|
+| [java8-streams-mini-ecommerce](https://github.com/AndreaMoschella3/java8-streams-mini-ecommerce) | Stream API (filter, map, sorted, groupingBy, limit), organizzazione in layer model/service/menu | Java 8 |
+
+> Ogni progetto in questa sezione nasce da curiosità, non da un compito. È il modo in cui continuo a crescere al di là della scuola.
 
 ## 📈 Obiettivo
 Sto costruendo il mio portfolio un progetto alla volta. Ogni repository rappresenta un passo concreto verso una carriera nel backend.
