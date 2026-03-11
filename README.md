@@ -25,8 +25,7 @@ Non mi fermo ai progetti scolastici — studio autonomamente tecnologie e patter
 | Project | Cosa ho imparato | Technology |
 |---|---|---|
 | [java8-streams-mini-ecommerce](https://github.com/AndreaMoschella3/java8-streams-mini-ecommerce) | Stream API (filter, map, sorted, groupingBy, limit), organizzazione in layer model/service/menu | Java 8 |
-| [School-JDBC](https://github.com/AndreaMoschella3/School-JDBC) | Java connection to MySQL via JDBC, query execution (SELECT, INSERT, UPDATE, DELETE), connection and exception management
- | Java + JDBC |
+| [School-JDBC](https://github.com/AndreaMoschella3/School-JDBC) | Java connection to MySQL via JDBC, query execution (SELECT, INSERT, UPDATE, DELETE), connection and exception management | Java + JDBC |
 
 > Ogni progetto in questa sezione nasce da curiosità, non da un compito. È il modo in cui continuo a crescere al di là della scuola.
 
