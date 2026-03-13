@@ -27,8 +27,16 @@ Non mi fermo ai progetti scolastici — studio autonomamente tecnologie e patter
 | [java8-streams-mini-ecommerce](https://github.com/AndreaMoschella3/java8-streams-mini-ecommerce) | Stream API (filter, map, sorted, groupingBy, limit), organizzazione in layer model/service/menu | Java 8 |
 | [PBTracker](https://github.com/AndreaMoschella3/PBTracker) | JDBC puro con MySQL: connessione, PreparedStatement, DAO pattern, getGeneratedKeys(), transazioni e rilevamento automatico dei Personal Best | Java + JDBC |
 
-
 > Ogni progetto in questa sezione nasce da curiosità, non da un compito. È il modo in cui continuo a crescere al di là della scuola.
+
+## 🔄 Workflow AI con n8n
+Sto esplorando il mondo dei workflow AI usando **n8n** — prima costruisco il flusso visualmente, poi lo traduco in codice. Ogni progetto in questa sezione nasce da un workflow reale e funzionante.
+
+| Project | Cosa ho imparato | Tipo |
+|---|---|---|
+| [AIWorkflowAssistantText](https://github.com/AndreaMoschella3/AIWorkflowAssistantText) | Primo workflow n8n con Form Trigger, Switch, Merge e AI Agent (Ollama locale) — tradotto in Java CLI con HttpClient, Jackson e Maven | n8n + Java |
+
+> I workflow in questa sezione possono essere solo n8n, solo codice, o entrambi — dipende dal progetto. L'obiettivo è capire come funzionano i sistemi AI automatizzati e saperli implementare.
 
 ## 📈 Obiettivo
 Sto costruendo il mio portfolio un progetto alla volta. Ogni repository rappresenta un passo concreto verso una carriera nel backend.
