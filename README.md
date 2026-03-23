@@ -51,7 +51,7 @@ Non mi fermo ai progetti scolastici — studio autonomamente tecnologie e patter
 
 ---
 
-## 🤖 AI & Automazione
+## 🤖 AI & Automazione (n8n - Ollama - Java)
 
 So costruire workflow AI con **n8n** — trigger, switch, merge, AI Agent con modelli locali. So integrare **Ollama** direttamente nel codice Java tramite API REST, e so chiamare API esterne reali per portare dati in tempo reale all'interno di un sistema automatizzato.
 
@@ -61,6 +61,7 @@ Non uso questi strumenti come scatole nere — li studio, li implemento da zero 
 |---|---|---|
 | [meteo-ai](https://github.com/AndreaMoschella3/meteo-ai) | Chiamate HTTP a API REST esterne (Open-Meteo), parsing JSON con Jackson, integrazione con AI locale (Ollama) per descrizioni meteo in linguaggio naturale | Java |
 | [AIWorkflowAssistantText](https://github.com/AndreaMoschella3/AIWorkflowAssistantText) | Workflow n8n con Form Trigger, Switch, Merge e AI Agent (Ollama locale) — tradotto in Java CLI con HttpClient, Jackson e Maven | n8n + Java |
+| [expense-management-AI](https://github.com/AndreaMoschella3/expense-management-AI) | Input in linguaggio naturale convertito in query SQL da Ollama locale (llama3.2:3b) ed eseguito su MySQL — architettura CLI con HttpClient, Jackson e dotenv | Java + Ollama |
 
 > L'obiettivo è capire come funzionano i sistemi AI automatizzati e saperli costruire — non solo usare.
 
