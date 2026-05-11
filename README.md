@@ -42,6 +42,46 @@ while(alive){
 
 # 📌 Progetti in evidenza
 
+## 🔹 TheBookHaven
+
+📚 Backend REST API per la gestione di una libreria digitale.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven" />
+</p>
+
+### ⚡ Stack
+- Java 21
+- Spring Boot 3
+- Spring Data JPA
+- H2 Database
+- Swagger/OpenAPI
+- Maven
+
+### 🚀 Funzionalità
+- CRUD autori
+- CRUD libri
+- ricerca libri per titolo
+- validazione input
+- gestione errori centralizzata
+- documentazione API con Swagger UI
+
+🔗 Repository:  
+[TheBookHaven](https://github.com/AndreaMoschella3/TheBookHaven)
+
+---
+
+## 🔹 expense-management-AI
+
+📍 Sistema CLI che converte input in linguaggio naturale in query SQL tramite Ollama locale (`llama3.2:3b`) ed esegue operazioni su MySQL
+
+🛠 Tech: `Java`, `Ollama`, `MySQL`, `HttpClient`, `Jackson`
+
+🔗 Repository:
+[expense-management-AI](https://github.com/AndreaMoschella3/expense-management-AI?utm_source=chatgpt.com)
+
+---
+
 ## 🔹 NutriceEngine
 
 📍 Calcolatore giornaliero di macronutrienti basato su BMR e TDEE
@@ -61,17 +101,6 @@ while(alive){
 
 🔗 Repository:
 [GymDB](https://github.com/AndreaMoschella3/GymDB?utm_source=chatgpt.com)
-
----
-
-## 🔹 expense-management-AI
-
-📍 Sistema CLI che converte input in linguaggio naturale in query SQL tramite Ollama locale (`llama3.2:3b`) ed esegue operazioni su MySQL
-
-🛠 Tech: `Java`, `Ollama`, `MySQL`, `HttpClient`, `Jackson`
-
-🔗 Repository:
-[expense-management-AI](https://github.com/AndreaMoschella3/expense-management-AI?utm_source=chatgpt.com)
 
 ---
 
